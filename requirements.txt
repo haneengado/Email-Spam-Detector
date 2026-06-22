@@ -5,4 +5,4 @@ seaborn
 spacy
 streamlit
 scikit-learn
-tensorflow
+tensorflow==2.16.1
